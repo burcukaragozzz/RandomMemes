@@ -45,7 +45,7 @@ class App extends Component {
 
   render() {
     const { randomImg, size, textTop, textBottom } = this.state;
-    console.log('deneme');
+
     return(
       <>
         <div className="form">
